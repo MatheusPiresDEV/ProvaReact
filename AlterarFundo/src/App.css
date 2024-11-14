@@ -1,0 +1,13 @@
+.black {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: black;
+  color: white;
+}
+
+
+.white {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: aliceblue;
+}
